@@ -8,4 +8,4 @@ Solve the problem (find an optimal plan) using the `planner` module. Output the 
 ```
 picat farmer.pi
 ```
-should output the value `7` and some description of the seven boat rides required.
+should output the value `7` and some description of the seven boat rides required. Optionally, you can create a constraint model and use the cp solver.
